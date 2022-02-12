@@ -6,8 +6,8 @@ services:
         ports:
             - 8080:8080
         volumes:
-        restart: always
             - /mnt/restreamer/db:/restreamer/db
+        restart: always
         environment:
             - RS_USERNAME=moeinovic
             - RS_PASSWORD=mjy@@1381
