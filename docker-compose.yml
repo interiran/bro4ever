@@ -15,5 +15,5 @@ services:
           cpu: 1000m
           memory: 3Gi
           storage:
-            size: 10Gi
+            size: 5Gi
             class: standard
