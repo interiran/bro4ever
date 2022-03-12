@@ -1,9 +1,9 @@
 {
- "server":"91.193.5.198",
- "server_port":50003,
+ "server":"95.174.23.218",
+ "server_port":989,
  "local_address":"127.0.0.1",
  "local_port":1082,
- "password":"8460400130",
+ "password":"f8f7aCzcPKbsF8p3",
  "timeout":600,
  "method":"aes-256-cfb"
 }
